@@ -1,0 +1,6 @@
+winner district game
+peeta 12 74
+katniss 12 74
+finnick 4 65
+Haymitch 12 50
+johanna 7 53
